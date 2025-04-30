@@ -4,10 +4,7 @@
     <title>Ámbitos de la tecnología</title>
     <link>https://www.t3cnologility.com/</link>
     <description>Novedades, análisis y lanzamientos de los diferentes campos de la tecnología</description>
-
-    <!-- Enlace recomendado por la especificación Atom -->
     <atom:link href="https://www.t3cnologility.com/feed.xml" rel="self" type="application/rss+xml" />
-
     <language>es</language>
     <pubDate>Tue, 29 Apr 2025 16:40:57 GMT</pubDate>
     <lastBuildDate>Tue, 29 Apr 2025 17:16:41 GMT</lastBuildDate>
